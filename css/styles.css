@@ -1,0 +1,33 @@
+#nav-list {
+  margin-top: 10px;
+  opacity: 0.8;
+ }
+
+#nav-list a {
+    text-align: center;
+ }
+
+.navbar-collapse {
+	   background-color: #e1e9f7;
+}
+
+#chicken-info {
+	background-color: #e1e9f7;
+	height: 500px;
+}
+
+#chicken-row {
+      margin: 0 30px 0 30px;
+    }
+
+
+/********** Large devices only **********/
+@media (min-width: 760px) {
+.navbar-collapse {
+	   background-color: #F8F8F8;
+	}
+}
+
+@media (max-width: 767px) {
+  
+}
